@@ -1,0 +1,12 @@
+.grid-container {
+  height: 400px;
+  width: 368px;
+  display: flex;
+  margin: auto;
+}
+
+.item {
+  height: 46px;
+  width: 46px;
+  border: 1px black solid;
+}

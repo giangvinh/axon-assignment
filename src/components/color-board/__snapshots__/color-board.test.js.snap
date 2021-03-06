@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Color board component should render color board component 1`] = `ShallowWrapper {}`;
